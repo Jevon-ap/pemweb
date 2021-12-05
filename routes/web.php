@@ -38,3 +38,9 @@ Route::get('/deck', function () {
     ]);
 });
 
+Route::get('/tournament', function () {
+    return view('tournament',[
+        "title"=>"Halaman Tournament"
+    ]);
+});
+

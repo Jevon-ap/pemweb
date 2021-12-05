@@ -17,7 +17,7 @@
             <a class="nav-link" href="/deck">Decks</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/#">Tournament</a>
+            <a class="nav-link" href="/tournament">Tournament</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/#">Comunity Event</a>

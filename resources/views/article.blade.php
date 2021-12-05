@@ -1,5 +1,6 @@
 @extends('main')
-@section('container')
-<h2>Ini bagian article</h2>
+@section('contain')
+<h1> article</h1>
+<div class="batas"></div>
 
 @endsection
